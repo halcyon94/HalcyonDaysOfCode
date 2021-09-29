@@ -1,7 +1,7 @@
 html {
     /* to prevent padding to more space than the page size*/
     box-sizing: border-box; 
-}
+} 
 
 body {
     /* vh = viewport height */
